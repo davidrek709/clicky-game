@@ -2,73 +2,61 @@
     {
         "id": 1,
         "name": "Richard",
-        "image": "https://d1qxviojg2h5lt.cloudfront.net/images/01DVE8XQTBZY43FEMZQ3Q97XGT/middleditch.valley570.png",
-        "location": "Silicon Valley"
+        "image": "https://vignette.wikia.nocookie.net/silicon-valley/images/3/33/Richard_Hendricks.jpg/revision/latest?cb=20150526104602"
     },
     {
         "id": 2,
-        "name": "Eurlich",
-        "image": "https://i.insider.com/5903a8ea7dea7265008b539c?width=1100&format=jpeg&auto=webp",
-        "location": "Silicon Valley"
+        "name": "Dinesh",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTg3MTQzMDI3MV5BMl5BanBnXkFtZTgwMDE3NTk2ODE@._V1_.jpg"
     },
     {
         "id": 3,
-        "name": "Jian Yang",
-        "image": "https://www.hbo.com/content/dam/hbodata/series/silicon-valley/characters/s2/jian-yang-1920.jpg/_jcr_content/renditions/cq5dam.web.1200.675.jpeg",
-        "location": "Silicon Valley"
+        "name": "Gilfoyal",
+        "image": "https://vignette.wikia.nocookie.net/silicon-valley/images/b/b8/Gilfoyle.jpg/revision/latest?cb=20160923173521"
     },
     {
         "id": 4,
-        "name": "Gilfoyal",
-        "image": "https://vignette.wikia.nocookie.net/silicon-valley/images/b/b8/Gilfoyle.jpg/revision/latest?cb=20160923173521",
-        "location": "Silicon Valley"
+        "name": "Jian Yang",
+        "image": "https://www.hbo.com/content/dam/hbodata/series/silicon-valley/characters/s2/jian-yang-1920.jpg/_jcr_content/renditions/cq5dam.web.1200.675.jpeg"
     },
     {
         "id": 5,
-        "name": "Dinesh",
-        "image": "https://m.media-amazon.com/images/M/MV5BMTg3MTQzMDI3MV5BMl5BanBnXkFtZTgwMDE3NTk2ODE@._V1_.jpg",
-        "location": "Silicon Valley"
+        "name": "Doctor",
+        "image": "https://vignette.wikia.nocookie.net/silicon-valley/images/6/64/Thedoctor.jpg/revision/latest?cb=20180504145719"
     },
     {
         "id": 6,
-        "name": "Jared",
-        "image": "https://assets3.thrillist.com/v1/image/1732495/size/tmg-article_default_mobile.jpg",
-        "location": "Silicon Valley"
+        "name": "Russ",
+        "image": "https://vignette.wikia.nocookie.net/silicon-valley/images/7/7d/Russ_Hanneman.jpg/revision/latest?cb=20160903214702"
     },
     {
         "id": 7,
-        "name": "Russ",
-        "image": "https://vignette.wikia.nocookie.net/silicon-valley/images/7/7d/Russ_Hanneman.jpg/revision/latest?cb=20160903214702",
-        "location": "Silicon Valley"
+        "name": "Erlich",
+        "image": "https://cdn1.thr.com/sites/default/files/imagecache/768x433/2017/05/362481f9d2f22bea29d0a2c4127fb4040147588f1fb50ecf2287dcb9693bfd39692274dd39cef4c2c77d4a247d7e91cf_copy_-_h_2017.jpg"
     },
     {
         "id": 8,
         "name": "Big Head",
-        "image": "https://www.hbo.com/content/dam/hbodata/series/silicon-valley/characters/s1/big-head-1920.jpg/_jcr_content/renditions/cq5dam.web.1200.675.jpeg",
-        "location": "Silicon Valley"
+        "image": "https://hiddenremote.com/files/2017/05/3a71366fa4c6fc45b71bfb45f82b265ab4eacafe9c37a93009f555c0cae02a3db500806a128bdf0fa75b694f2a5d347a.jpeg"
     },
     {
         "id": 9,
         "name": "Gavin",
-        "image": "https://i2.wp.com/www.mercurynews.com/wp-content/uploads/2019/10/ross2.jpg?fit=620%2C9999px&ssl=1",
-        "location": "Silicon Valley"
+        "image": "https://i2.wp.com/www.mercurynews.com/wp-content/uploads/2019/10/ross2.jpg?fit=620%2C9999px&ssl=1"
     },
     {
         "id": 10,
-        "name": "Monica",
-        "image": "https://vignette.wikia.nocookie.net/silicon-valley/images/6/69/Silicon-Valley-Wikia_infobox-Monica_01.jpg/revision/latest?cb=20160913215924",
-        "location": "Silicon Valley"
+        "name": "Laurie",
+        "image": "https://www.hbo.com/content/dam/hbodata/series/silicon-valley/characters/s2/laurie-1920.jpg/_jcr_content/renditions/cq5dam.web.1200.675.jpeg"
     },
     {
         "id": 11,
-        "name": "Laurie",
-        "image": "https://vignette.wikia.nocookie.net/silicon-valley/images/d/dc/Laurie-bream.jpg/revision/latest/top-crop/width/360/height/360?cb=20150620085525",
-        "location": "Silicon Valley"
+        "name": "jared",
+        "image": "https://assets3.thrillist.com/v1/image/1732495/size/tmg-article_default_mobile.jpg"
     },
     {
         "id": 12,
-        "name": "Doctor",
-        "image": "https://vignette.wikia.nocookie.net/silicon-valley/images/6/64/Thedoctor.jpg/revision/latest?cb=20180504145719",
-        "location": "Silicon Valley"
+        "name": "jack",
+        "image": "https://www.hbo.com/content/dam/hbodata/series/silicon-valley/characters/s3/jack-barker-1920.jpg/_jcr_content/renditions/cq5dam.web.1200.675.jpeg"
     }
 ]
